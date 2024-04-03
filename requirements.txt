@@ -1,0 +1,2 @@
+Flask==2.1.2
+gpt-2-simple==0.8.1
